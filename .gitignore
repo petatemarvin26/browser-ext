@@ -1,0 +1,16 @@
+# dist or buil production
+build
+dist
+
+# dependencies
+node_modules
+
+# environments
+.env*
+
+# test chunks
+test
+
+
+# pakage lock files
+*lock.*
